@@ -1,4 +1,4 @@
-class mage {
+export class mage {
     constructor(nom, pntsvie, pntsattaque, pntsmana){
         this.nom = nom
         this.pntsvie = pntsvie

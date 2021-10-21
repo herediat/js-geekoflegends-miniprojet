@@ -1,4 +1,4 @@
-class archer{
+export class archer{
     constructor(nom, ptnsvie, ptnsattaque, nbrfleches){
         this.nom = nom
         this.ptnsvie = ptnsvie

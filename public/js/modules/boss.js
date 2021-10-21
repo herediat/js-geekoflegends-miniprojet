@@ -6,7 +6,7 @@ export class Sauron {
     }
 }
 
-class Chronos {
+export class Chronos {
     constructor(nom, pntsvie, pntsattaque) {
         this.nom = nom
         this.pntsvie =pntsvie
@@ -14,7 +14,7 @@ class Chronos {
     }
 }
 
-class Lilith {
+export class Lilith {
     constructor(nom, pntsvie, pntsattaque) {
         this.nom = nom
         this.pntsvie =pntsvie
